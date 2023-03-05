@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=~/Desktop/Projects/hacker_trap/trap.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Hacker Trap
+Name=Hacker Trap
+Comment[en_US]=Monitor folder activity to detect possible hacking attempts
+Comment=Monitor folder activity to detect possible hacking attempts
